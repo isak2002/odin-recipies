@@ -1,6 +1,11 @@
-body{
+body {
    color:pink;
    background-color:rgb(146, 206, 255);
-   font-size : 30px;
+   font-size : 60px;
+   font-family: Georgia, 'Times New Roman', Times, serif;
 
+}
+img {
+   height: 100px;
+   width : 100px;
 }
